@@ -1,4 +1,4 @@
-pip install streamlit transformers torch accelerate peft bitsandbytes trl huggingface_hub
+
 import streamlit as st
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
